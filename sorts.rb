@@ -1,5 +1,3 @@
-require_relative 'timer'
-
 # insertion sort algorithm
 def insertion_sort (array)
   for j in (1..array.length)
